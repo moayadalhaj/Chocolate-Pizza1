@@ -36,7 +36,7 @@ header hr {
   display: block;
   border: none;
   height: 10px;
-  background-image: url('../img/hr-img.png');
+  background-image: url('../assests/hr-img.png');
 }
 main {
   margin-top: 75px;
@@ -93,7 +93,7 @@ main hr {
   display: block;
   border: none;
   height: 10px;
-  background-image: url('../img/hr-img.png');
+  background-image: url('../assests/hr-img.png');
 }
 main .feedback {
   display: flex;
